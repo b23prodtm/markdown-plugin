@@ -10,7 +10,7 @@ All rights reserved.
 
 BSD 2-Clause License
 
-Copyright (c) 2018, Tina B. Arimana
+Copyright (c) 2018, Tina R. Arimanana
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
