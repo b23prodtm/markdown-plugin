@@ -14,7 +14,13 @@ For this plugin, the application Markdown is inside Vendor
 
 Written for CakePHP 2.x
 
-### Copyright (c) 2018 Tina B. Rakoto All Rights Reserved.
+### Release Notes
+
+Composer.json dependencies updates michelf/php-markdown package.
+
+> Copyright (c) 2018 Tina B. Rakoto All Rights Reserved.
+
+### License
 
 PHP Markdown Lib  
 Copyright (c) 2004-2018 Michel Fortin
