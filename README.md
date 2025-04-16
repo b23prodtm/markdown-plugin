@@ -12,13 +12,13 @@ For this plugin, the application Markdown is inside Vendor
 
 ### Version
 
-Written for CakePHP 2.x
+Written for CakePHP 3.x
 
 ### Release Notes
 
 Composer.json dependencies updates michelf/php-markdown package.
 
-> Copyright (c) 2018 Tina B. Rakoto All Rights Reserved.
+> Copyright (c) 2018-2025 Tina B. Rakoto All Rights Reserved.
 
 ### License
 
