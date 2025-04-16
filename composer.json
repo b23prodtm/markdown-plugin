@@ -22,9 +22,14 @@
     "require": {
         "michelf/php-markdown": "^1.8",
         "php": ">=5.3.0",
-        "composer/installers": "*"
+        "composer/installers": "^2.3"
     },
     "extra": {
         "installer-name": "MarkdownExtra"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
     }
 }
