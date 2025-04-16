@@ -12,8 +12,7 @@ For this plugin, the application Markdown is inside Vendor
 
 ### Version
 
-Written for CakePHP 3.x
-
+Written for CakePHP 3.x. Published to [Packagist.org](https://packagist.org/packages/betothreeprod/markdown-plugin)
 ### Release Notes
 
 Composer.json dependencies updates michelf/php-markdown package.
